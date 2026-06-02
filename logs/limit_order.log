@@ -1,0 +1,3 @@
+2024-05-10 15:10:44 | INFO     | Initialising Binance Futures Testnet client.
+2024-05-10 15:10:44 | INFO     | Placing LIMIT BUY order: symbol=BTCUSDT, qty=0.01, price=60000.0, tif=GTC
+2024-05-10 15:10:45 | INFO     | Order response: {'orderId': 3426398, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'web_limit_test_001', 'price': '60000.00000', 'avgPrice': '0.00000', 'origQty': '0.01', 'executedQty': '0.00', 'cumQty': '0.00', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'updateTime': 1715347445123}

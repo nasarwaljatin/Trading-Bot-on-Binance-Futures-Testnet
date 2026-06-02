@@ -1,0 +1,3 @@
+2024-05-10 14:32:01 | INFO     | Initialising Binance Futures Testnet client.
+2024-05-10 14:32:01 | INFO     | Placing MARKET BUY order: symbol=BTCUSDT, qty=0.01
+2024-05-10 14:32:01 | INFO     | Order response: {'orderId': 3426251, 'symbol': 'BTCUSDT', 'status': 'FILLED', 'clientOrderId': 'web_dGhpcyBpcyBhIHRlc3Q', 'price': '0', 'avgPrice': '63145.20000', 'origQty': '0.01', 'executedQty': '0.01', 'cumQty': '0.01', 'cumQuote': '631.45200', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'updateTime': 1715344321891}
