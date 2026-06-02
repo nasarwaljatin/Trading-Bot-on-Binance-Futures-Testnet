@@ -193,8 +193,3 @@ pip install -r requirements.txt
 - No position management or order tracking is implemented — this is a single-order placement tool.
 - Time-in-force for LIMIT orders defaults to `GTC` (Good Till Cancelled).
 
----
-
-## License
-
-This project was built as part of a hiring assessment for [Primetrade.ai](https://primetrade.ai). Not intended for production use.
